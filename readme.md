@@ -1,4 +1,6 @@
-# Smart Calendar
+# Smart Calendar 
+
+Maintained by Meenakshi4124
 
 AI‑assisted meeting scheduling across Google (live) and Microsoft (scaffolded). Users authenticate via OAuth, chat with an assistant to collect meeting details, check conflicts, and create events. This repo contains a Next.js 14 frontend (`web/`), an Express backend (`backend/`), and Kubernetes Helm charts (`helm/`).
 
